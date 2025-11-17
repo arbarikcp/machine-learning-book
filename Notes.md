@@ -1,0 +1,3 @@
+### Regression toward the mean
+- The term “**regression**” was devised by Francis Galton in his article **Regression towards Mediocrity in Hereditary Stature** in 1886. Galton described the biological phenomenon that the variance of height in a population does not increase over time.
+- He observed that the height of parents is not passed on to their children, but instead, their children’s height regresses toward the population mean.
